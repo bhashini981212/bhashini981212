@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhashini</h1>
 <h3 align="center">NITR UG '23 ECE</h3>
-<img align="right" alt="Coding" width="400" src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?resize=476%2C280&ssl=1")
+<img align="right" alt="Coding" width="400" src="[https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?resize=476%2C280&ssl=1](https://png.pngtree.com/element_our/20200609/ourmid/pngtree-children-s-software-programming-image_2230761.jpg)")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhashini981212&label=Profile%20views&color=0e75b6&style=flat" alt="bhashini981212" /> </p>
 
