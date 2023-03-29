@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhashini</h1>
 <h3 align="center">NITR UG '23 ECE</h3>
-<img align="right" alt="Coding" width="400" src="https://png.pngtree.com/element_our/20200609/ourmid/pngtree-children-s-software-programming-image_2230761.jpg")
-
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/922afe93aa76083f12fbdc963df455549b7c58d6e323ea8dd146ebd378e09957/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f6636686e68486b6b7338626b346a776a68332f67697068792e676966")
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhashini981212&label=Profile%20views&color=0e75b6&style=flat" alt="bhashini981212" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhashini981212" alt="bhashini981212" /></a> </p>
