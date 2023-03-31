@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/922afe93aa76083f12fbdc963df455549b7c58d6e323ea8dd146ebd378e09957/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f6636686e68486b6b7338626b346a776a68332f67697068792e676966")
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhashini981212&label=Profile%20views&color=0e75b6&style=flat" alt="bhashini981212" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhashini981212" alt="bhashini981212" /></a> </p>
+
 - 🔭 I’m currently working on **ML & Deep learning projects**
 
 - 🌱 I’m currently learning **Data Analysis with R**
@@ -13,6 +13,10 @@
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **bhashinibaiz@gmail.com**
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
